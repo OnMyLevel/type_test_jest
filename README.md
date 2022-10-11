@@ -1,5 +1,5 @@
 # type_test_jest
- example of test with jest
+Formation de test unistaire avec JEST 
 # etape - 1 
 npm install 
 # etape - 2 
